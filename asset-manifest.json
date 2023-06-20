@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/AkshatDasondhi.github.io/age-calculator/static/css/main.a1b79804.css",
-    "main.js": "/AkshatDasondhi.github.io/age-calculator/static/js/main.2053a641.js",
-    "static/js/787.1715cc32.chunk.js": "/AkshatDasondhi.github.io/age-calculator/static/js/787.1715cc32.chunk.js",
-    "index.html": "/AkshatDasondhi.github.io/age-calculator/index.html",
-    "main.a1b79804.css.map": "/AkshatDasondhi.github.io/age-calculator/static/css/main.a1b79804.css.map",
-    "main.2053a641.js.map": "/AkshatDasondhi.github.io/age-calculator/static/js/main.2053a641.js.map",
-    "787.1715cc32.chunk.js.map": "/AkshatDasondhi.github.io/age-calculator/static/js/787.1715cc32.chunk.js.map"
+    "main.css": "/age-calculator/static/css/main.a1b79804.css",
+    "main.js": "/age-calculator/static/js/main.2053a641.js",
+    "static/js/787.1715cc32.chunk.js": "/age-calculator/static/js/787.1715cc32.chunk.js",
+    "index.html": "/age-calculator/index.html",
+    "main.a1b79804.css.map": "/age-calculator/static/css/main.a1b79804.css.map",
+    "main.2053a641.js.map": "/age-calculator/static/js/main.2053a641.js.map",
+    "787.1715cc32.chunk.js.map": "/age-calculator/static/js/787.1715cc32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1b79804.css",
